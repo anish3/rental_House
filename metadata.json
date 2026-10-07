@@ -1,0 +1,6 @@
+{
+  "name": "RentReel - Scroll into your next home",
+  "description": "Instagram-style rental social marketplace for discovering rental homes, rooms, PGs, hostels, and tenants with short-form reels and 10-day expiring listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
